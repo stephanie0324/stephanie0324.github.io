@@ -6,7 +6,7 @@
     Contact Info
     <a href="https://github.com/stephanie0324">Github Repo</a>
     ·
-    <a href="sc310542@gmail.com">Gmail</a>
+    <a href="https://www.facebook.com/profile.php?id=100005029028402">Facebook</a>
     ·
     <a href="https://www.linkedin.com/in/stephanie-chiang-42100b165?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">LinkedIn</a>
   </p>
@@ -14,7 +14,7 @@
 
 ## Table of contents
 - [About this space](#about-this-space)
-- [Quick start](#quick-start)
+- [Leetcode Crack](#leetcode-crack)
 - [Status](#status)
 - [What's included](#whats-included)
 - [Bugs and feature requests](#bugs-and-feature-requests)
@@ -25,15 +25,13 @@
 
 ## About this space
 I'm trying to build a personal website, uploading and updating side projects and personal study notes.
-### WHAT'S NEW
+> ### WHAT'S NEW
+> * Leetcode sessions
+> * NLP Finetuning Updates
+> * Machine Leaning by Professor 李宏毅
 
-## Quick start
-
-Some text
-
-- Instruction 1
-- Instruction 2
-- Instruction 3
+## Leetcode Crack
+Starting from ```2023/11/22```, notetaking of data structure and algorithms to crack coding interviews.
 
 ## Status
 
