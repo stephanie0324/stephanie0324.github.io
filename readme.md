@@ -31,7 +31,8 @@ I'm trying to build a personal website, uploading and updating side projects and
 > * Machine Leaning by Professor 李宏毅
 
 ## Leetcode Crack
-Starting from ```2023/11/22```, notetaking of data structure and algorithms to crack coding interviews.
+Starting from ```2023/11/22```, notetaking of data structure and algorithms to crack coding interviews.  
+Note link 📔: [crack code with me](https://github.com/stephanie0324/stephanie0324.github.io/blob/main/leetcode/intro.md)
 
 ## Status
 
