@@ -4,7 +4,7 @@
   <p align="center">
     【領域展開 - 伏魔御廚子】
     <br>
-    <a>Contact Info </a>
+    Contact Info
     <a href="https://github.com/stephanie0324">Github Repo</a>
     ·
     <a href="sc310542@gmail.com">Gmail</a>
