@@ -1,0 +1,4 @@
+title: Stephanie Chiang
+show_downloads: true
+remote_theme: pages-themes/minimal@v0.2.0
+gem "github-pages", group: :jekyll_plugins
