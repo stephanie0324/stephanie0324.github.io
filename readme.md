@@ -1,4 +1,3 @@
-# Steph's Space
 <p align="center">
     <img src="https://64.media.tumblr.com/4f2fbd52f4b2d786294823b1179ff81e/54b3600b6fb4d3bf-2a/s1280x1920/9a513a574561673d7d651f5a84d6f659a33c895f.gif" width=500 height=250>
   <p align="center">
@@ -12,7 +11,6 @@
     <a href="https://www.linkedin.com/in/stephanie-chiang-42100b165?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">LinkedIn</a>
   </p>
 </p>
-
 
 ## Table of contents
 - [About this space](#about-this-space)
