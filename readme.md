@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="https://64.media.tumblr.com/4f2fbd52f4b2d786294823b1179ff81e/54b3600b6fb4d3bf-2a/s1280x1920/9a513a574561673d7d651f5a84d6f659a33c895f.gif" width=500 height=250>
-  <p align="center">
     【領域展開 - 伏魔御廚子】
+  <p align="center">
+    <img src="https://64.media.tumblr.com/4f2fbd52f4b2d786294823b1179ff81e/54b3600b6fb4d3bf-2a/s1280x1920/9a513a574561673d7d651f5a84d6f659a33c895f.gif" width=500 height=250>
     <br>
     Contact Info
     <a href="https://github.com/stephanie0324">Github Repo</a>
@@ -12,8 +12,15 @@
   </p>
 </p>
 
+## About this space
+Hi, I'm Stephanie a rookie working at ITRI as NLP engineer. 🐤  
+I'm trying to build a personal website, uploading and updating side projects and personal study notes.
+> ### WHAT'S NEW
+> * Leetcode sessions
+> * NLP Finetuning Updates
+> * Machine Leaning by Professor 李宏毅
+
 ## Table of contents
-- [About this space](#about-this-space)
 - [Leetcode Crack](#leetcode-crack)
 - [Status](#status)
 - [What's included](#whats-included)
@@ -22,13 +29,6 @@
 - [Creators](#creators)
 - [Thanks](#thanks)
 - [Copyright and license](#copyright-and-license)
-
-## About this space
-I'm trying to build a personal website, uploading and updating side projects and personal study notes.
-> ### WHAT'S NEW
-> * Leetcode sessions
-> * NLP Finetuning Updates
-> * Machine Leaning by Professor 李宏毅
 
 ## Leetcode Crack
 Starting from ```2023/11/22```, note-taking of data structure and algorithms to crack coding interviews.  
